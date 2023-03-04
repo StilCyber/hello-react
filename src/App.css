@@ -2,49 +2,12 @@
 
 }
 
-.header {
-   min-height: 100px;
-  background-color: greenyellow;
-}
-.header img {
-  width: 60px;
-}
+
 
 .main {
    display: flex;
 }
 
-.nav {
-   flex: 0 1 20%;
 
-   background-color: burlywood;
-}
-.nav a {
-   list-style: none;
-   text-decoration: none;
-}
 
-.nav div {
-   margin-bottom: 20px;
-}
-.content {
-   flex: 0 1 80%;
-   background-color: #ff99ff;
-}
-.content__art {
-   width: 400px;
-   height: 200px;
-}
-.profile {
-   display: flex;
-   column-gap: 20px;
-}
-.photo img {
-   width: 150px;
-   height: 150px;
-}
-.info {
-   color: #fff;
-   font-size: 22px;
-}
 /*# sourceMappingURL=App.css.map */

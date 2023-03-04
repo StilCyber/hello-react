@@ -1,0 +1,7 @@
+.header {
+   min-height: 100px;
+  background-color: greenyellow;
+}
+.header img {
+  width: 60px;
+}
