@@ -12,9 +12,10 @@
    margin-bottom: 20px;
 }
 
-.item a {
+.item {
    color: #fff;
 }
-.item.active a {
+
+.active {
    color: gold;
 }

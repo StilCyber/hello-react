@@ -2,19 +2,3 @@
    flex: 0 1 80%;
    background-color: #ff99ff;
 }
-.content__art {
-   width: 400px;
-   height: 200px;
-}
-.profile {
-   display: flex;
-   column-gap: 20px;
-}
-.photo img {
-   width: 150px;
-   height: 150px;
-}
-.info {
-   color: #fff;
-   font-size: 32px;
-}

@@ -1,0 +1,12 @@
+.dialogs {
+   display: flex;
+   column-gap: 40px;
+
+}
+
+.dialogsItems {
+   display: flex;
+   flex-direction: column;
+   
+}
+
